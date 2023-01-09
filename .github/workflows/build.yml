@@ -3,7 +3,9 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "Package name of the game:"
+          description: "app:Pure Sniper
+package:com.miniclip.realsniper
+Launcher:com.unity3d.player.UnityPlayerActivity"
           required: true
 
 jobs:
